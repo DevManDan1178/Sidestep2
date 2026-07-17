@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a3765ff19bee1e3458c58211ed879a59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - CollisionEffect: {fileID: 3187536689424289715, guid: f03e7acf2c0683f459d81fe1585e5f61, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5bc9f17f1b2dd1b418cb24ad0c7786e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Obstacle: {instanceID: 0}
+  - SpawnParticles: {fileID: 3187536689424289715, guid: ca64edc8c9c2cde449c198a43468617f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
