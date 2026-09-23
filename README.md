@@ -1,8 +1,8 @@
 # Sidestep 2
 
-Sidestep 2 is an early game-development project built with Unity and C#.
+Sidestep 2 is a small bullet hell game inspired by LoL Dodge Game and JSAB.
 
-The project was created to explore the fundamentals of Unity development, gameplay programming, and building a complete playable game from the ground up.
+Dodge projectiles and lasers and survive until the level is over, or as long as possible.
 
 ## Overview
 
@@ -39,6 +39,17 @@ The project is no longer actively developed. It is included in my portfolio to d
 A playable WebGL version is available on my portfolio:
 
 [Play Sidestep 2](https://devmandan.vercel.app/Sidestep2)
+
+## Screenshots
+
+#### Level 1
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b42ed44-d30a-43cf-b8ad-1d9f6cdce625" />
+
+#### Endless Mode
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ceedc548-bb25-45c0-8486-d5869c0b5162" />
+
 
 ## Built With
 
